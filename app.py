@@ -1,7 +1,4 @@
-import subprocess
 
-# Install TensorFlow using pip
-subprocess.call(["pip", "install", "tensorflow"])
 import streamlit as st
 
 import tensorflow as tf
