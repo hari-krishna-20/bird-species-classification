@@ -1,3 +1,5 @@
+pip freeze > requirements.txt
+
 streamlit
 tensorflow
 tensorflow_hub
