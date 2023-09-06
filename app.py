@@ -3,7 +3,7 @@ import streamlit as st
 
 import tensorflow as tf
 import numpy as np
-!pip install --upgrade numpy
+
 import PIL.Image as Image
 import tensorflow_hub as hub
 
